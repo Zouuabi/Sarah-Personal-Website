@@ -6,14 +6,17 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Software Developer",
-          "Freelancer",
-          "MERN Stack Developer",
-          "Open Source Contributor",
+          "To Sarsoura",
+          "Wishing you a birthday as amazing as you are! \n  le le mouch barcha afsakh ",
+            "Nfadlek 😂😂",
+          " You deserve all the happiness in the world!",
+          "Your partner in التشرد 🌺"
+
+
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 10,
       }}
     />
   );
